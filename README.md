@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="iamvishalrathi"/></a>
+<img align="right" height="300" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="iamvishalrathi"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvishalrathi&label=Profile%20views&color=ed333b&style=flat-square" alt="iamvishalrathi" /> </p>
 
