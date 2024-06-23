@@ -45,11 +45,8 @@
   <a href="https://en.wikipedia.org/wiki/Canva" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="iamvishalrathi" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
-
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishalrathi&theme=dark" alt="iamvishalrathi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="iamvishalrathi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishalrathi&theme=dark" alt="iamvishalrathi" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvishalrathi" alt="iamvishalrathi" /></a> </p>
 
