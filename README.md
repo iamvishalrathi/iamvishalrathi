@@ -49,8 +49,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
 
-[![@iamvishalrathi's Holopin badges](https://holopin.me/iamvishalrathi)](https://holopin.io/@iamvishalrathi)
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishalrathi&theme=dark" alt="iamvishalrathi" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvishalrathi" alt="iamvishalrathi" /></a> </p>
+
+[![@iamvishalrathi's Holopin badges](https://holopin.me/iamvishalrathi)](https://holopin.io/@iamvishalrathi)
