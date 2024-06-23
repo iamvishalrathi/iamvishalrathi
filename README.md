@@ -1,9 +1,9 @@
+[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">Full Stack Developer</h3>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="iamvishalrathi"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvishalrathi&label=Profile%20views&color=ed333b&style=flat-square" alt="iamvishalrathi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvishalrathi" alt="iamvishalrathi" /></a> </p>
 
 - 🔭 I’m currently working on **DSA, WebD**
 
@@ -49,6 +49,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
 
-[![@iamvishalrathi's Holopin badges](https://holopin.me/iamvishalrathi)](https://holopin.io/@iamvishalrathi)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishalrathi&theme=dark" alt="iamvishalrathi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishalrathi&theme=dark" alt="iamvishalrathi" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvishalrathi" alt="iamvishalrathi" /></a> </p>
+
+[![@iamvishalrathi's Holopin badges](https://holopin.me/iamvishalrathi)](https://holopin.io/@iamvishalrathi)
