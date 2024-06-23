@@ -47,7 +47,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="iamvishalrathi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
 
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishalrathi&theme=dark" alt="iamvishalrathi" /></p>
 
