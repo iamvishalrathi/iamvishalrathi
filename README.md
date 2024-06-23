@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvishalrathi&label=Profile%20views&color=ed333b&style=flat-square" alt="iamvishalrathi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvishalrathi" alt="iamvishalrathi" /></a> </p>
-
 - 🔭 I’m currently working on **DSA, WebD**
 
 - 🌱 I’m currently learning **JS, HTML, CSS, JAVA, C/C++**
@@ -52,5 +50,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
 
 [![@iamvishalrathi's Holopin badges](https://holopin.me/iamvishalrathi)](https://holopin.io/@iamvishalrathi)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvishalrathi" alt="iamvishalrathi" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishalrathi&theme=dark" alt="iamvishalrathi" /></p>
