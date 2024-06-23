@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img <style>margin-left="20px" </style> align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="iamvishalrathi"/></a>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="iamvishalrathi"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvishalrathi&label=Profile%20views&color=ed333b&style=flat-square" alt="iamvishalrathi" /> </p>
 
@@ -20,9 +20,7 @@
   <a href="https://linkedin.com/in/iamvishalrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamvishalrathi" height="30" width="40" /></a>  
   <a href="https://stackoverflow.com/users/25689571/vishal-kumar-rathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iamvishalrathi" height="30" width="40" /></a>
   <a href="https://instagram.com/iamvishalrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamvishalrathi" height="30" width="40" /></a>
-<!--   <a href="https://www.hackerrank.com/iamvishalrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamvishalrathi" height="30" width="40" /></a> -->
   <a href="https://leetcode.com/u/iamvishalrathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamvishalrathi" height="30" width="40" /></a>
-<!--   <a href="https://discord.gg/iamvishalrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iamvishalrathi" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
