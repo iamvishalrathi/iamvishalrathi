@@ -59,9 +59,7 @@
 
 --- 
 
-<div align="center"> 
-  ![](https://leetcard.jacoblin.cool/iamvishalrathi?ext=contest) 
-</div>
+ ![](https://leetcard.jacoblin.cool/iamvishalrathi?ext=contest)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
 
