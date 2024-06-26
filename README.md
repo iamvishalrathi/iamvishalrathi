@@ -51,8 +51,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="iamvishalrathi" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishalrathi&theme=dark" alt="iamvishalrathi" /></p>
