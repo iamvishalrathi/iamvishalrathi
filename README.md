@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">Full Stack Developer | Java Enthusiast</h3>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/vin-00/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/iamvishalrathi/count.svg?"  />
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamvishalrathi&label=Profile%20views&color=ed333b&style=flat-square" alt="iamvishalrathi" /> </p>
 --- 
