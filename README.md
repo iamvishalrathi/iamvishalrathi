@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love reading Books, listening Audiobooks, watching Podcasts and had keen interest in Geopolitics.**
 
-
+--- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,8 @@
   <a href="https://stackoverflow.com/users/25689571/vishal-kumar-rathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iamvishalrathi" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/iamvishalrathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamvishalrathi" height="30" width="40" /></a>
 </p>
+
+--- 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -53,6 +55,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 </p>
+
+--- 
 
 ![](https://leetcard.jacoblin.cool/iamvishalrathi?ext=contest)
 
