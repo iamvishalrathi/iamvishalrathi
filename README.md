@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">Full Stack Developer | Java Enthusiast</h3>
 
---- 
-
 <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="iamvishalrathi"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvishalrathi&label=Profile%20views&color=ed333b&style=flat-square" alt="iamvishalrathi" /> </p>
@@ -17,6 +15,8 @@
 - 📫 How to reach me **rajatrathi029@gmail.com**
 
 - ⚡ Fun fact **I love reading Books, listening Audiobooks, watching Podcasts and had keen interest in Geopolitics.**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,6 +53,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 </p>
+
+![](https://leetcard.jacoblin.cool/iamvishalrathi?ext=contest)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
 
