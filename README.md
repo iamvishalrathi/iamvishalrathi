@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvishalrathi&label=Profile%20views&color=ed333b&style=flat-square" alt="iamvishalrathi" /> </p>
 
-- 🔭 I’m currently working on **DSA, WebD**
+- 🔭 I’m currently working on **Online Code Editors**
 
-- 🌱 I’m currently learning **JS, HTML, CSS, JAVA, C/C++**
-
-- 👨‍💻 All of my projects are available at https://github.com/iamvishalrathi
+- 🌱 I’m currently learning **FIGMA**
 
 - 💬 Ask me about **JAVA, C/C++, DSA**
 
