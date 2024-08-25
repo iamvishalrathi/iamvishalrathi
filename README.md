@@ -8,7 +8,7 @@
 <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="iamvishalrathi"/></a>
 - 🔭 I’m currently working on **Online Code Editors**
 
-- 🌱 I’m currently learning **FIGMA**
+- 🌱 I’m currently learning **Cloud**
 
 - 💬 Ask me about **JAVA, C/C++, DSA**
 
