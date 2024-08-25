@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">Full Stack Developer | Java Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamvishalrathi&label=Profile%20views&color=ed333b&style=flat-square" alt="iamvishalrathi" /> </p>
+
 --- 
 
 <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="iamvishalrathi"/></a>
