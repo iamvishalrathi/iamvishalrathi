@@ -61,5 +61,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvishalrathi&theme=dark" alt="iamvishalrathi" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvishalrathi" alt="iamvishalrathi" /></a> </p>
