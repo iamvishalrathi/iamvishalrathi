@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rajatrathi029@gmail.com**
 
-- ⚡ Fun fact **I love reading Books, listening Audiobooks, watching Podcasts and had keen interest in Geopolitics.**
+- ⚡ Fun fact **I love reading Books, listening Audiobooks and had keen interest in Geopolitics.**
 
 --- 
 
