@@ -1,4 +1,3 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/iamvishalrathi)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">MERN Stack Developer | Java Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamvishalrathi&label=Profile%20views&color=ed333b&style=flat-square" alt="iamvishalrathi" /> </p>
