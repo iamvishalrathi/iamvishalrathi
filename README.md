@@ -5,9 +5,9 @@
 --- 
 
 <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="iamvishalrathi"/></a>
-- 🔭 I’m currently working on **Online Code Editors**
+- 🔭 I’m currently working on **AI SAAS App**
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **JAVA, C/C++, DSA**
 
