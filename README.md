@@ -19,9 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/iamvishalrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamvishalrathi" height="30" width="40" /></a>  
-  <a href="https://stackoverflow.com/users/25689571/vishal-kumar-rathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iamvishalrathi" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/iamvishalrathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamvishalrathi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/iamvishalrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamvishalrathi" height="30" width="40" /></a>
+  <a href="https://iamvishalkumar.me/" target="blank"><img align="center" src="https://github.com/iamvishalrathi/My-PortFolio-Website/blob/main/public/favicon-white.png" alt="iamvishalrathi" height="30" width="40" />Portfolio</a>
 </p>
 
 --- 
