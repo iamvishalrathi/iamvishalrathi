@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/iamvishalrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamvishalrathi" height="30" width="40" /></a>
-  <a href="https://iamvishalkumar.me/" target="blank"><img align="center" src="https://github.com/iamvishalrathi/My-PortFolio-Website/blob/main/public/favicon-white.png" alt="iamvishalrathi" height="30" width="40" />Portfolio</a>
+  <a href="https://iamvishalkumar.me/" target="blank"><img align="center" src="https://github.com/iamvishalrathi/My-PortFolio-Website/blob/main/public/favicon-white.png" alt="iamvishalrathi" height="30" width="40" /></a>
 </p>
 
 --- 
@@ -53,8 +53,6 @@
 </p>
 
 --- 
-
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/iamvishalrathi?ext=contest" alt="iamvishalrathi"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvishalrathi&show_icons=true&theme=dracula&locale=en" alt="iamvishalrathi" /></p>
 
